@@ -1,4 +1,4 @@
-# 🛡️ Phishing Simulation Campaign - Internship Task
+# 🛡️ Phishing Simulation Campaign
 
 This repository documents a **phishing simulation campaign** executed by **Tobechukwu** as part of a cybersecurity internship. The objective was to simulate phishing emails, monitor user interactions, and assess awareness in a controlled environment.
 
